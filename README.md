@@ -1,6 +1,7 @@
 # Sentimental AI
 #### Summer project offered by Brain and Cognitive Society, IIT Kanpur.
 #### Project Mentors: Sahil Bansal, Hitesh Anand, Shaswat Gupta
+#### Project Duration: May 2022 - July 2022
 
 ## Overview
 This project focuses on the very fundamentals of Sentiment Analysis using Natural Language Processing. Used standard packages and libraries.
