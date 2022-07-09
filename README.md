@@ -17,10 +17,8 @@ Main Topics covered and timeline:
 
 ## Assignment 1
 Implement a Neural Network from scratch. The goal is to use NumPy to make the Neural Network. Additional theory is covered in the ipynb notebook.
-Notebook link- https://drive.google.com/file/d/1-02_V2m51wkTo1YMw2Op2H0joR7cQew4/view?usp=sharing 
 
 ## Assignment 2
-https://colab.research.google.com/drive/1BnuDXwsCW2w7iI57_Nly_SfH-mb8Zhu_?usp=sharing
 The goal of this assignment was to generate Shakespeare text using Long Short Term Memory Models and Recurrent Neural Networks.
 
 ## Assignment 3
